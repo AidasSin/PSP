@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Biblioteka
 {
-    class EmailValidator
+   public class EmailValidator
     {
         public bool IsEmailValid(string email)
         {
-            return true;
+            return false;
         }
     }
 }
