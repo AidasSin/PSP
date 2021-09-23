@@ -1,0 +1,14 @@
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.exe
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.deps.json
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.runtimeconfig.json
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.runtimeconfig.dev.json
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.dll
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.pdb
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csproj.AssemblyReference.cache
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfoInputs.cache
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfo.cs
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csproj.CoreCompileInputs.cache
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.dll
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.pdb
+E:\5semestras\PSP\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.genruntimeconfig.cache

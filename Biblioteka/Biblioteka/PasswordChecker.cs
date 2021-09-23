@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Biblioteka
 {
-    class PasswordChecker
+    public class PasswordChecker
     {
         public bool IsPasswordValid(string password)
         {
-            return true;
+            return false;
         }
     }
 }
