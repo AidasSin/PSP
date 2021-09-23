@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+/* Adding this comment here in order to shrink my initial PR and make it easier to see Tests. */
+
 namespace Biblioteka.Tests
 {
     [TestClass]
