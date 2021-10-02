@@ -1,19 +1,15 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PSPLibrary.Tests.Interfaces;
+using PSPLibrary.Interfaces;
+using PSPLibrary;
 
 namespace PSPLibrary.Tests
 {
 	[TestClass]
-	class PasswordValidatorTests
+	public class PasswordValidatorTests
 	{
-		private IPasswordValidator _passwordValidator;
+		readonly PasswordValidator _passwordValidator = new PasswordValidator();
 
-        public PasswordValidatorTests(IPasswordValidator passwordValidator)
-        {
-            _passwordValidator = passwordValidator;
-        }
-
-        [TestMethod]
+		[TestMethod]
 		public void CheckPassword_ValidPassword_ReturnsTrue()
 		{
 			//Arrange

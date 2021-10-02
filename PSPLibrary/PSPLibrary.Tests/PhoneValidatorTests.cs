@@ -1,19 +1,13 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PSPLibrary.Tests.Interfaces;
 
 namespace PSPLibrary.Tests
 {
 	[TestClass]
-    class PhoneValidatorTests
+    public class PhoneValidatorTests
     {
-		private IPhoneValidator _phoneValidator;
+		readonly PhoneValidator _phoneValidator = new PhoneValidator();
 
-        public PhoneValidatorTests()
-        {
-            _phoneValidator = new PhoneValidator();
-        }
-
-        [TestMethod]
+		[TestMethod]
 		public void ValidatePhoneNumber_ValidNumber_ReturnsTrue()
 		{
 			//Arrange
@@ -76,7 +70,7 @@ namespace PSPLibrary.Tests
 			// and only after that add new format and test phone number?
 			// Or just validate the addition of the new format?
 			
-			_phoneValidator.AddNumberFormat(12, "+44");
+			//_phoneValidator.AddNumberFormat(12, "+44");
 			var result = _phoneValidator.CheckNumber(number);
 
 			//Assert
