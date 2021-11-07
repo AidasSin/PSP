@@ -1,19 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PSPLibrary.Tests.Interfaces;
+using PSPLibrary.Tests;
+using PSPLibrary;
 
 namespace PSPLibrary.Tests
 {
     [TestClass]
-    class EmailValidatorTests
+    public class EmailValidatorTests
     {
-		private IEmailValidator _emailValidator;
+		readonly EmailValidator _emailValidator = new EmailValidator();
 
-        public EmailValidatorTests(IEmailValidator emailValidator)
-        {
-            _emailValidator = emailValidator;
-        }
-
-        [TestMethod]
+		[TestMethod]
 		public void ValidateEmail_ValidEmail_ReturnsTrue()
 		{
 			//Arrange
