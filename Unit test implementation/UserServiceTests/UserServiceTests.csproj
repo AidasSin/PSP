@@ -60,6 +60,10 @@
       <Project>{4e37a7be-802f-4863-bf62-b68bc5eb71a8}</Project>
       <Name>1_3_Bibliotekos_Panaudojimas</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Testingv2\ValidatorsUnitTests.csproj">
+      <Project>{02e8aa62-f09a-443f-a1db-4c038ca0846f}</Project>
+      <Name>ValidatorsUnitTests</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

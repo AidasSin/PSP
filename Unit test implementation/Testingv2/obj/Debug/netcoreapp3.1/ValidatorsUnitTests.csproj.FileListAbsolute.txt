@@ -84,7 +84,6 @@ E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\bin\D
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.csproj.AssemblyReference.cache
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.GeneratedMSBuildEditorConfig.editorconfig
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.AssemblyInfoInputs.cache
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.AssemblyInfo.cs
