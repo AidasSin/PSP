@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatorsUnitTests", "ValidatorsUnitTests.csproj", "{02E8AA62-F09A-443F-A1DB-4C038CA0846F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_3_Bibliotekos_Panaudojimas", "..\1_3_Bibliotekos_Panaudojimas\1_3_Bibliotekos_Panaudojimas.csproj", "{4E37A7BE-802F-4863-BF62-B68BC5EB71A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_3_Bibliotekos_Panaudojimas", "..\1_3_Bibliotekos_Panaudojimas\1_3_Bibliotekos_Panaudojimas.csproj", "{4E37A7BE-802F-4863-BF62-B68BC5EB71A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceTests", "..\UserServiceTests\UserServiceTests.csproj", "{C2DFF3CB-76F8-40CF-A1B1-0D478B0A3A7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4E37A7BE-802F-4863-BF62-B68BC5EB71A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E37A7BE-802F-4863-BF62-B68BC5EB71A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E37A7BE-802F-4863-BF62-B68BC5EB71A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DFF3CB-76F8-40CF-A1B1-0D478B0A3A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DFF3CB-76F8-40CF-A1B1-0D478B0A3A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DFF3CB-76F8-40CF-A1B1-0D478B0A3A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DFF3CB-76F8-40CF-A1B1-0D478B0A3A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
