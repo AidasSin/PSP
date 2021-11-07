@@ -15,6 +15,7 @@ namespace _1_3_Bibliotekos_Panaudojimas.Repository
         public Task<UserEntity> CreateUserAsync(UserEntity userEntity, CancellationToken cancellation);
         public Task EditUserInfoAsync(UserEntity userEntity, CancellationToken cancellation);
         public Task DeleteUserAsync(int id, CancellationToken cancellation);
+        public bool ValidateUserInfo(UserEntity userEntity);
 
     }
 }

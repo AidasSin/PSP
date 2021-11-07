@@ -12,7 +12,7 @@ namespace _1_3_Bibliotekos_Panaudojimas.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UsersController : Controller
+    public class UsersController : ControllerBase
     {
         private readonly IUserServiceRepository _userServiceRepository;
 
