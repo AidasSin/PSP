@@ -92,3 +92,4 @@ E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\D
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.dll
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.pdb
 E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.genruntimeconfig.cache
+E:\5semestras\PSP\3 užduoties repo\PSP\Unit test implementation\Testingv2\obj\Debug\netcoreapp3.1\ValidatorsUnitTests.csproj.AssemblyReference.cache
